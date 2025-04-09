@@ -38,6 +38,7 @@ Pandas: para manipular e explorar os dados.
 Matplotlib e Seaborn: para criar gráficos incríveis.
 
 Ambiente: Jupyter Notebook ou Google Colab.
+
 🌟 Por que isso é útil?
 Com este projeto, você pode:
 ✅ Identificar os maiores clientes e produtos mais vendidos.
