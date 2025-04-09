@@ -62,3 +62,5 @@ Adoramos contribuições! Caso tenha alguma ideia, sugestão ou melhoria, sinta-
 📩 Contato: Tem dúvidas ou sugestões? Entre em contato pelo LinkedIn ou abra uma issue aqui no GitHub!
 
 ✨ Divirta-se explorando os dados! 🚀
+
+![image](https://github.com/user-attachments/assets/f8888619-d394-4e2b-9111-b386ea4356cb)
