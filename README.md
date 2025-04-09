@@ -21,7 +21,7 @@ Este projeto é para você! 🚀
 
 3️⃣ Qual o total de vendas por estado? (Gráfico de barras)
 
-![image](https://github.com/user-attachments/assets/2a2d70f1-4ae5-422e-8a1f-d1a27b479aab)D
+![image](https://github.com/user-attachments/assets/2a2d70f1-4ae5-422e-8a1f-d1a27b479aab)
 
 4️⃣ Quais são as 10 cidades com maior total de vendas? (Gráfico de barras)
 
