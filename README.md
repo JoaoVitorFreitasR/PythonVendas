@@ -39,7 +39,12 @@ Este projeto é para você! 🚀
 
 9️⃣ Como as vendas mudam ao longo do tempo por segmento? (Gráfico de linha)
 
+![image](https://github.com/user-attachments/assets/476ba7b8-394f-41a4-a38e-8be364e9638e)
+
 🔟 Quais categorias e subcategorias geram mais vendas? (Gráfico consolidado)
+
+![image](https://github.com/user-attachments/assets/7e4eb8e8-1d62-4b26-a2ca-7b113836bb1b)
+
 
 🛠️ Tecnologias Utilizadas
 Aqui estão as ferramentas que usamos para dar vida a este projeto:
