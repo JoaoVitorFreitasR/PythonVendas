@@ -15,7 +15,7 @@ Este projeto é para você! 🚀
 
 📊 Perguntas Respondidas no Projeto
 🔍 Análises Gerais:
-1️⃣ Qual cidade tem o maior valor de vendas para a categoria 'Office Supplies'?
+1️⃣ Qual cidade tem o maior valor de vendas para a categoria 'Office Supplies'? 
 2️⃣ Como as vendas variam ao longo do tempo? (Gráfico de barras)
 3️⃣ Qual o total de vendas por estado? (Gráfico de barras)
 4️⃣ Quais são as 10 cidades com maior total de vendas? (Gráfico de barras)
